@@ -1,0 +1,8 @@
+TODO:
+[] Find and Download SAT Temporal Data
+[] Find and Download Dew Point Temporal Data
+[] Find and Download Population Density Data
+[] Find and Download Energy Consumption Data
+[x] Find and Download Population % with HVAC Data
+[] Find and Download Greencover Data
+[] Find and Download Wealth/Income Data

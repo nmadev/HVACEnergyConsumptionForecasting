@@ -1,0 +1,10 @@
+[ ] [ ] Surface Air Temperature: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00332, https://prism.oregonstate.edu/
+[ ] [ ] Dew Point: https://prism.oregonstate.edu/
+[x] [ ] Pop Density: https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev11/data-download
+[x] [x] A/C Usage: https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption&src=%E2%80%B9%20Consumption%20%20%20%20%20%20Residential%20Energy%20Consumption%20Survey%20(RECS)-f3
+[ ] [ ] Energy Consumption: https://www.eia.gov/consumption/residential/data/2015/index.php
+[ ] [ ] Socioeconomic: https://www.census.gov/programs-surveys/acs/
+https://www.census.gov/programs-surveys/acs/data/data-via-api.html
+
+Adoption curve: Roger's Adoption Curve (1995) sigmoidal
+Heat Index Calculation: https://www.romps.berkeley.edu/papers/pubs-2020-heatindex.html
