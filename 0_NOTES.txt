@@ -1,23 +1,12 @@
-[x] [ ] Surface Air Temperature: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00332, https://prism.oregonstate.edu/
-[x] [ ] Dew Point: https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2129
-[x] [x] Pop Density: https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev11/data-download
-[x] [x] A/C Usage: https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption&src=%E2%80%B9%20Consumption%20%20%20%20%20%20Residential%20Energy%20Consumption%20Survey%20(RECS)-f3
-[x] [ ] Energy Consumption: https://www.eia.gov/consumption/residential/data/2015/index.php
-[x] [x] Socioeconomic: https://www.ruralhealthinfo.org/data-explorer?id=213
-https://www.census.gov/programs-surveys/acs/data/data-via-api.html
+Data sources:
+Surface Air Temperature: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00332, https://prism.oregonstate.edu/
+Dew Point: https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2129
+Pop Density: https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev11/data-download
+A/C Usage: https://www.eia.gov/consumption/residential/data/2020/index.php?view=consumption&src=%E2%80%B9%20Consumption%20%20%20%20%20%20Residential%20Energy%20Consumption%20Survey%20(RECS)-f3
+Energy Consumption: https://www.eia.gov/consumption/residential/data/2015/index.php
+Median Household Income: https://www.ruralhealthinfo.org/data-explorer?id=213
 
 Adoption curve: Roger's Adoption Curve (1995) sigmoidal
 Heat Index Calculation: https://www.romps.berkeley.edu/papers/pubs-2020-heatindex.html
 Degree Days: https://www.weather.gov/key/climate_heat_cool
 HVAC Residential Consumption: https://www.eia.gov/tools/faqs/faq.php?id=1174&t=1#:~:text=In%20the%20Annual%20Energy%20Outlook,to%20about%2010%25%20of%20total
-
-Look at change in energy consumption by lower income communities!!!
-
-* Multiple timestep unfolding
-* Up-res images
-* Masking part of data to fill in missing temp values
-* Multi-channel CNN-LSTM with grid matching before the modeling step
-* Increase overall resolution of the data
-* Build a location search tool to see change in energy demand at that location
-* Deploy web-app with search tool, projection builder, etc.
-* Find heads per household by county and normalize for that
